@@ -1,4 +1,2 @@
-# EJEMPLO SOLID
-
-* Juliana Alexandra Capador Ochoa 20152020081
-* Jorge Andrés Lucero Hernández 20152020082
+# Modelos-de-Programaci-n-I
+# Modelos-de-Programaci-n-I
